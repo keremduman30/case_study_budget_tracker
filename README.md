@@ -3,6 +3,8 @@
 ![Budget Tracker Banner](https://via.placeholder.com/1000x300.png?text=Budget+Tracker+App)  
 **Track your income and expenses effortlessly!**
 
+> Live Demo: [Budget Tracker App](https://nextjs-budget-app-taupe.vercel.app/)
+
 ---
 
 ## 🛠️ Technologies & Libraries  
